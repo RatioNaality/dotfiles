@@ -1,0 +1,4 @@
+include ".gtkrc-xfce"
+gtk-icon-theme-name = "Mint-X-Grey"
+gtk-theme-name = "numix"
+gtk-font-name = "Inconsolata 10"
